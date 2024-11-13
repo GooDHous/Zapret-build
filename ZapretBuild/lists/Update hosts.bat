@@ -1,0 +1,1 @@
+curl -o hosts.txt  https://www.digitalocean.com/robots.txt
