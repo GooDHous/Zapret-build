@@ -1,2 +1,0 @@
-cd lists
-update.bat
