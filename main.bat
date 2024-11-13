@@ -1,3 +1,8 @@
+@echo off
+cd lists
+autoupdate.vbs
+cd ..
+cls
 cd /d "%~dp0"
 set BIN=%~dp0build\main-build\
 start "Build By DocFreeman and Weh" /min "%BIN%winws.exe" --wf-raw="@lists\rules.txt" ^
