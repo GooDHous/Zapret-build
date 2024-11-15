@@ -1,2 +1,2 @@
 cd lists
-update.bat
+autoupdate.vbs
