@@ -1,7 +1,9 @@
 ## RU
 Для того чтобы начать использование запустите файл Main.bat
 Список хостов постоянно пополняется и чтобы поучаствовать в этом перейдите по ссылке https://goodhous.github.io/zapretHostsForm/
-и добавьте нужные хосты (В общий список они попадут в течении 3х дней)
+и добавьте нужные хосты (В общий список они попадут в течении 3х дней) 
+
+Edit. Превышен максимальный месячный1 лимит отправки mailjs добавление хостов через сайт приостановлено Зайдите в дискорд https://discord.gg/nGSW2Ez7dG и отправьте хосты там
 
 ![image](https://github.com/user-attachments/assets/b4eca527-4424-4004-91ee-0b0f92f89b45)
 
@@ -17,6 +19,7 @@ To start using it, run the Main.bat file.
 The list of hosts is constantly replenished and to participate in this go to https://goodhous.github.io/zapretHostsForm/ and add the desired hosts (They will be added to the list within 3 days).
 and add the hosts you want (they will be added to the general list within 3 days).
 
+Edit. We have reached your posting limit please go to [discord](https://discord.gg/nGSW2Ez7dG) and send hosts to the #hosts channel
 ![image](https://github.com/user-attachments/assets/b4eca527-4424-4004-91ee-0b0f92f89b45)
 
 
