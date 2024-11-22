@@ -3,6 +3,8 @@ cd lists
 autoupdate.vbs
 cd ..
 cls
+echo Please wait
+timeout /T 7 /NOBREAK > NUL
 cd /d "%~dp0"
 set BIN=%~dp0build\main-build\
 start "Build By DocFreeman Chara and Weh" /min "%BIN%winws.exe" --wf-raw="@lists\rules.txt" ^
