@@ -9,8 +9,9 @@ cls
 If Errorlevel 6 Goto Unkownerror
 If Errorlevel 5 Goto Administrator
 If Errorlevel 1 Goto Unkownerror
-
+REG DELETE HKCU\Software\Microsoft\Windows\CurrentVersion\Run /f /v ZapretBuildUpdate >nul
 sc delete "Zapret_Build"
+
 cls
 If Errorlevel 1 Goto ErrorNoAutorun
 Echo Билд удален из автозагрузки / The build has been removed from autorun
