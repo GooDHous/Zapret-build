@@ -1,9 +1,11 @@
+soundcloud.com
 censortracker.org
 studio.youtube.com
 *.youtube.*
 *youtube*
 rutracker.org
 *steamstatic*
+animegoa.quest
 *thatpervert*
 thatpervert.*
 monitoringminecraft.ru
@@ -41,10 +43,6 @@ v3.vost.pw
 anivost.ru
 *.vost.pw
 agor.pw
-github.com
-github.io
-*.github.io
-*.github.*
 *.anime-vost.online
 anime-vost.online
 anime-vost.*
@@ -3829,8 +3827,6 @@ apg.land
 apg6.pirat.one
 aphroditeporntube.com
 api.app.prod.grazie.aws.intellij.net
-api.github.com
-api.githubcopilot.com
 api.home-connect.com
 api.openai.com
 api.protonvpn.ch
@@ -7355,7 +7351,6 @@ chernoezerkalo.zfilm-hd-2659.online
 chernoezerkalo.zfilm-hd-696.online
 chernoezerkalo.zfilm-hd-731.online
 cherta.media
-chervetred.github.io
 chess.com
 chest-avto.ru
 chestfest.ru
@@ -7844,7 +7839,6 @@ coolss.kinogo.wtf
 coools.kinogo.wtf
 coostshort.sbs
 copartohfs.website
-copilot-proxy.githubusercontent.com
 copro.pw
 cora-loria.net
 coraloria.pro
@@ -10910,7 +10904,7 @@ fas-tv.com
 fascisndyo.xyz
 fashion.piratbit.top
 fashionnhunter.com
-fast-die.github.io
+
 fast-die.kiev.ua
 fast-drk-link.com
 fast-food.pro
@@ -20739,7 +20733,6 @@ mdma24.page.tl
 mdou84-smol.ru
 mdramy.com
 mdrr.org.ru
-mdz-rus.github.io
 mdz.vercel.app
 me-qr.com
 me.ashoo.land
