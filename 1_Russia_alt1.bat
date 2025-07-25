@@ -1,4 +1,5 @@
 @echo off
+cd /d "%~dp0"
 title Zapret_Build By Weh, DocFreeman and Chara (Build V2.0) 
 chcp 65001
 cls
@@ -8,7 +9,7 @@ cls
 call 2_update_hosts
 echo:
 
-cd /d "%~dp0"
+
 
 start "Zapret_Build By Weh, DocFreeman and Chara (Build V2.0)" /min "%~dp0build\main-build\winws.exe" --wf-tcp=80,443 --wf-udp=443,50000-65535 ^
 --filter-udp=443 --hostlist="%~dp0lists\hosts.txt" --dpi-desync=fake --dpi-desync-repeats=6 --dpi-desync-fake-quic="%~dp0build\main-build\quic_initial_www_google_com.bin" --new ^

@@ -1,4 +1,5 @@
 @echo off
+cd /d "%~dp0"
 title Zapret_Build By Weh, DocFreeman and Chara (Build V2.0) 
 chcp 65001
 cls
